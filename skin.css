@@ -1,0 +1,28 @@
+/*                       title for card styling                       */
+.user-page-content .card .card-header:not(.feedtitle) {
+    background-color:#38D9D3!important;
+    border:none;
+    padding:1rem;
+    border-radius:5px
+    }
+    
+    /*                       card box shadow                 
+    .grid-stack > .grid-stack-item > .grid-stack-item-content {
+    box-shadow:2px 2px 10px 2px #d3d3d3;
+    border-radius:10px
+    }      */
+    
+    
+
+
+    /* padding for cards */ 
+
+    .card.card-secondary > .block > .card-body.flush,.card.card-secondary > .card-body.flush {
+    padding:.9rem
+    }
+
+     /* wrappers */ 
+
+     .wrapper-teal {
+        background-color:teal;
+     }
