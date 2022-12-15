@@ -1865,3 +1865,14 @@ body {
       button:hover, a:hover {
         opacity: 0.7;
       }
+
+
+       /* Styles for cards */
+
+       .box-card {
+        padding:40px; 
+        min-width: 100px;
+        max-width: 500px; 
+        margin: auto; 
+        text-align: center;
+       }
