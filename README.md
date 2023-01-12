@@ -1,4 +1,4 @@
-#Custom HTML / CSS for TDM Mahara ePortfolio platform
+# Custom HTML / CSS for TDM Mahara ePortfolio platform
 
 The HTML files are individual HTML blocks that can be imported via the 'Custom HTML' block on an ePortfolio page. 
 
