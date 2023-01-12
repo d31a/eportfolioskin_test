@@ -4,4 +4,4 @@ The HTML files are individual HTML blocks that can be imported via the 'Custom H
 
 For security reasons, style and scripting tags does not work. 
 
-For styling, create a custom theme and in the 'Advanced' tab, import css as required. 
+For styling, create a custom theme and in the 'Advanced' tab, import CSS as required. 
